@@ -1,4 +1,14 @@
-### Hi there 👋
+#  Hi there!
+
+### I'm Brandon! I am currently an IT professional in the Pharmaceutical industry with a passion for design and front-end development. I have an educational background in Engineering Physics which brought me into the world of computer science. Through my professional and personal experience, I have grown a love for programming and that love continues to grow the more I dive in!
+
+#### [Check out my portfolio site!](https://www.brandonbaskett.me)
+
+### Tech Stack
+
+<img src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667" alt="sass" height="64" width="64"/><img src="https://camo.githubusercontent.com/667bb3aed3b725c94da10d16faeaa92a71334035ee72bd1d0f58a1d12138c336/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7376656c74652e737667" alt="svelte" height="64" width="64"/><img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" alt="javascript" height="64" width="64"/><img src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" alt="react" height="64" width="64"/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bbaskett.bbaskett)
 
 <!--
 **BBaskett/bbaskett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
