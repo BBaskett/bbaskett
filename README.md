@@ -2,7 +2,7 @@
 
 ### I'm Brandon! I am currently an IT professional in the Pharmaceutical industry with a passion for design and front-end development. I have an educational background in Engineering Physics which brought me into the world of computer science. Through my professional and personal experience, I have grown a love for programming and that love continues to grow the more I dive in!
 
-#### [Check out my portfolio site!](https://www.brandonbaskett.me)
+#### [Check out my portfolio site!](https://brandonbaskett.netlify.app/)
 
 ### Tech Stack
 
